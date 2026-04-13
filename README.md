@@ -90,7 +90,7 @@ cachecards/
 1️⃣ Clone the Repository
 
 bash
-git clone https://github.com/your-username/cachecards.git
+git clone https://github.com/mk3000ps07-max/cachecards.git 
 cd cachecards
 
 
