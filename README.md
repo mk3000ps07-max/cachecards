@@ -150,13 +150,6 @@ http://localhost:5000
 <img width="1915" height="1025" alt="image" src="https://github.com/user-attachments/assets/f25c8498-75e1-4e35-a139-c07667b59704" />
 
 
-🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the repository and submit a pull request.
-
----
-
 📄 License
 
 This project is licensed under the MIT License.
